@@ -37,6 +37,21 @@ bash ts3client_runscript.sh # run ts3
 # ‼️Alert:Of course, I will include a script in this post: a script called (installts.sh), which is for automatic installation if you keep the run file in the downloads folder, and a script for execution called (ts3.sh), which you can run whenever you need to. You can enter the TeamSpeak client by just running a script.
 
 ---
+# Supported operating systems:
+
+```markdown
+kali
+Debian
+Ubuntu
+mint
+POP!_OS
+MX Linux
+Devuan
+Sparky Linux
+antiX
+Porrot OS
+```
+---
 
 # ⚠️Warning: When running the installation script, make sure that the file exists in the downloads folder, otherwise Go into the installts.sh script and change this part Otherwise, you can install it manually according to the instructions above.
 
