@@ -87,9 +87,10 @@ alias ts='#The path where the file ts3.sh exists'
 
 ```
 
+# 📝
 note: If you want, you can replace ts with anything you want for your command.
 
-**In my experience, if TeamSpeak is used in Windows, it provides much higher sound quality and easier access than in Linux. However, the sound quality for listeners in Linux is significantly reduced.**
+**In my experience, if TeamSpeak is used in Windows, it provides much higher sound quality and easier access than in Linux. However, the sound quality for listeners in Linux is significantly reduced.😅**
 
 ---
 
