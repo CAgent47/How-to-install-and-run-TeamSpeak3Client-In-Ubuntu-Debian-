@@ -96,7 +96,7 @@ note: If you want, you can replace ts with anything you want for your command.
 
 # -👤Created By GodFather 
 
-# -📜MTA Scripter • Linux Learner🐧 • Future DevOps Engineer 🇺🇸🔥
+# -📜MTA Scripter • Linux Learner🐧 🇺🇸🔥
 
 **Topics:** 
 [#bash](https://github.com/topics/bash) •
