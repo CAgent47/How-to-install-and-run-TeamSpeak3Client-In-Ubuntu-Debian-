@@ -61,7 +61,7 @@ cd Downloads
 ```
 ---
 # How to run Installation Script 💻
-![Click](https://github.com/GodFather850/How-to-install-and-run-TeamSpeak3Client-In-Ubuntu-Debian-/archive/refs/heads/main.zip)
+![Click](https://github.com/CAgent_47/How-to-install-and-run-TeamSpeak3Client-In-Ubuntu-Debian-/archive/refs/heads/main.zip)
 to Download Scripts
 ```bash
 # Go to the path where the zip file was downloaded And Open File
@@ -94,7 +94,7 @@ note: If you want, you can replace ts with anything you want for your command.
 
 ---
 
-# -👤Created By GodFather 
+# -👤Created By CAgent_47
 
 # -📜MTA Scripter • Linux Learner🐧 🇺🇸🔥
 
