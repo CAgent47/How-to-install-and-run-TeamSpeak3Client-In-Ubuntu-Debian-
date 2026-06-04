@@ -107,4 +107,4 @@ note: If you want, you can replace ts with anything you want for your command.
 [#Ubuntu](https://github.com/topics/ubuntu)
 
 ---
-![Tux](https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg)
+![Banner](banner.png)
