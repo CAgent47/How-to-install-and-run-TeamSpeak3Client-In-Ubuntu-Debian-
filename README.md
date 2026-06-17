@@ -109,7 +109,8 @@ sudo pacman -S teamspeak3
 [#automation](https://github.com/topics/automation) •
 [#ts3](https://github.com/topics/ts3) •
 [#TeamSpeak](https://github.com/topics/teamspeak) •
-[#Ubuntu](https://github.com/topics/ubuntu)
+[#Ubuntu](https://github.com/topics/ubuntu) •
+[#CAgent_47](https://github.com/topics/CAgent47)
 
 ---
 ![Banner](banner.png)
