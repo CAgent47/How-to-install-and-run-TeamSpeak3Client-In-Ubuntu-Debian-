@@ -55,6 +55,8 @@ Porrot OS
 
 # ⚠️Warning: When running the installation script, make sure that the file exists in the downloads folder, otherwise Go into the installts.sh script and change this part Otherwise, you can install it manually according to the instructions above.
 
+**Recommanded: Use TS6 Client**
+
 ```bash
 cd Downloads
     # Rename the downloads and replace them with the path to the folder where the .run file is located.
