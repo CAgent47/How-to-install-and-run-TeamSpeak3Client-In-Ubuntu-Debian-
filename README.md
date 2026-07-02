@@ -6,7 +6,9 @@ In this post, we are going to teach you how to run the TeamSpeak 3 client progra
 ![TS3](ts-share-image2.jpg)
 
 # Setup 1: Where to download? 📦📥
-![Click To Download](https://www.teamspeak.com/en/downloads/#ts3client)
+```bash
+git clone https://github.com/CAgent47/How-to-install-and-run-TeamSpeak3Client-In-Ubuntu-Debian-.git
+```
 and select linux version to download .run file
 
 ---
